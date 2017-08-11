@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Abbs Bing Search - v0.1.2\n"
+"POT-Creation-Date: 2017-04-26 10:22+0100\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: abbs-bing-search.php:87
+msgid "The API Key provided by Bing to use the search functionality"
+msgstr "The API Key provided by Bing to use the search functionality"
+
+#: abbs-bing-search.php:94
+msgid "The amount of Search items per page"
+msgstr "The amount of Search items per page"
+
+#: abbs-bing-search.php:101
+msgid "The market that the search will use"
+msgstr "The market that the search will use"
+
+#: abbs-bing-search.php:108
+msgid "Inject any custom styling here to be used on the plugin theme file"
+msgstr "Inject any custom styling here to be used on the plugin theme file"
+
+#: abbs-bing-search.php:115
+msgid "API Settings"
+msgstr "API Settings"
+
+#: abbs-bing-search.php:121
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: abbs-bing-search.php:126
+msgid "Bing API Key"
+msgstr "Bing API Key"
+
+#: abbs-bing-search.php:127
+msgid "Items Per Page"
+msgstr "Items Per Page"
+
+#: abbs-bing-search.php:128
+msgid "Country/Market"
+msgstr "Country/Market"
+
+#: abbs-bing-search.php:129
+msgid "Custom Styles"
+msgstr "Custom Styles"
+
+#: abbs-bing-search.php:156
+msgid "Items"
+msgstr "Items"
+
+#: abbs-bing-search.php:201
+msgid "You have not yet set your bing search API Key. You can obtain one"
+msgstr "You have not yet set your bing search API Key. You can obtain one"
+
+#: abbs-bing-search.php:201
+msgid "here."
+msgstr "here."
